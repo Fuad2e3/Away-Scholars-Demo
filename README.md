@@ -47,6 +47,38 @@
 
 ---
 
+## 📸 Visual Showcase
+
+### 🚀 Core Experience
+*Seamless access and dynamic insights.*
+<p align="center">
+  <img src="Photos/1.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photos/2.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photos/3.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photos/4.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+</p>
+
+### 📂 Student & Academic Management
+*Lifecycle tracking and documentation history.*
+<p align="center">
+  <img src="Photos/5.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photos/6.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photos/7.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photos/8.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+</p>
+
+### 💰 Financial Audit & Reporting
+*Professional ledgers and system-wide analytics.*
+<p align="center">
+  <img src="Photos/9.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photos/10.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photos/11.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photos/12.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+  <img src="Photos/13.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;">
+</p>
+
+---
+
 ## 📁 Project Structure
 
 The application follows a modular architecture for scalability and maintainability:
@@ -116,5 +148,5 @@ flutter run
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="center">
-  Developed with ❤️ by <b>Team Softece</b><br>
+  Developed with ❤️ by <b>Fuad</b><br>
   <i>Away Scholars</i>
