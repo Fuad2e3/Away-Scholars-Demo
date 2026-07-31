@@ -115,9 +115,6 @@ flutter run
 ## 📄 License
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<div align="center">
-
-**Developed with ❤️ for Away Scholars**  
-*Academic & Documentation Expert Management System*
-
-</div>
+<p align="center">
+  Developed with ❤️ by <b>Team Softece</b><br>
+  <i>Away Scholars</i>
