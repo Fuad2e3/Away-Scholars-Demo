@@ -147,6 +147,11 @@ flutter run
 ## 📄 License
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<p align="center">
-  Developed with ❤️ by <b>Fuad</b><br>
-  <i>Away Scholars</i>
+<div align="center">
+
+**Developed with ❤️ by Fuad**  
+*Developed by Softece*  
+*Away Scholars*
+
+</div>
+
