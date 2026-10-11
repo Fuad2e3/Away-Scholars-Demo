@@ -118,40 +118,11 @@ lib/
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Prerequisites
-- Flutter SDK installed and configured.
-- Android/iOS device or emulator.
-
-### 2. Installation
-```bash
-# Clone the repository
-git clone https://github.com/fuadk/away_scholars.git
-
-# Install dependencies
-flutter pub get
-
-# Run the app
-flutter run
-```
-
-### 3. Authentication (Default Credentials)
-| Field | Value |
-| :--- | :--- |
-| **User ID** | `awayscholars` |
-| **Password** | `Away666` |
-
----
-
 ## 📄 License
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <div align="center">
 
-**Developed with ❤️ by Fuad**  
-*Developed by Softece*  
-*Away Scholars*
+**Developed ❤️ by Softece**
 
 </div>
-
